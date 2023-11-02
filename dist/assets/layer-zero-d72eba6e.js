@@ -1,0 +1,1 @@
+import{d as e,o as a,c as r,a as o,f as t,j as n}from"./index-7794b288.js";import{A as s}from"./TextArea-84d21abc.js";import"./AntdIcon-32fd6c55.js";const f=e({__name:"layer-zero",setup(c){return(l,p)=>(a(),r("div",null,[o("div",null,[t(n(s),{placeholder:"请输入查询地址 一行一个"})])]))}});export{f as default};

@@ -1,0 +1,41 @@
+{
+  "name": "4165306",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ant-design/icons-vue": "^6.1.0",
+    "@metamask/providers": "^13.1.0",
+    "animejs": "^3.2.1",
+    "ant-design-vue": "4.x",
+    "axios": "^1.5.0",
+    "pinia": "^2.1.6",
+    "vue": "^3.3.4",
+    "vue-router": "4",
+    "web3": "^4.2.1"
+  },
+  "devDependencies": {
+    "@types/mysql": "^2.15.21",
+    "@types/node": "^20.5.7",
+    "@typescript-eslint/eslint-plugin": "^6.1.0",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "@vitejs/plugin-vue-jsx": "^3.0.2",
+    "buffer": "^6.0.3",
+    "eslint": "^8.0.1",
+    "eslint-config-standard-with-typescript": "^38.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0 || ^16.0.0 ",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-vue": "^9.17.0",
+    "mysql": "^2.18.1",
+    "rollup-plugin-node-polyfills": "^0.2.1",
+    "typescript": "*",
+    "vite": "^4.4.5",
+    "vite-plugin-ngmi-polyfill": "^0.0.2",
+    "vue-tsc": "^1.8.5"
+  }
+}
